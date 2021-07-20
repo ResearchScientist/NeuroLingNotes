@@ -76,3 +76,10 @@ Primary Systems
 
 # Wernicke's area
 - perception
+
+# Hemispheres
+
+**Right**
+prosody and syntax
+
+The intonation of prosody , the logical stress of an utterance , is processed in the right hemisphere.
