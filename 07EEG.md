@@ -105,3 +105,97 @@ Same stimulus presented multiple times. Responses are averaged.
 Limitation
 - habituation
 - fatigue
+
+<hr>
+
+# EEG
+
+electroencephalography
+
+Records electrical activity.
+
+Channels
+- 128 electrodes
+- 256 electrodes for a dense array
+
+Sensitivity
+- tangential sources (sulci)
+- radial sources (gyri)
+
+**Power Spectrum**
+
+|Frequency|Hz|
+|--|--|
+|Delta|1 to 4|
+|Theta|4 to 8|
+|Alpha|8 to 14|
+|Beta|14 to 30|
+|Gamma|30 to 70|
+|High Gamma|70 to 150|
+
+# MEG
+
+magnetic encephalography
+
+Records magnetic fields.
+
+Channels
+- 200 to 300 sensors
+
+Sensitivity
+- tangential sources
+
+Selectivity
+- activity in cortical sulci
+
+# Forward Problem
+
+Calculation of scalp electrical field.
+
+# Inverse Problem
+
+Calculation of which neuronal populations generated the field.
+
+# Independent Component Analysis
+
+Statistical method for reducing number of signals from numerous channels to a minimum number of independent signals.
+
+# Functional Connectivity
+
+Statistical association between 2 signals.
+
+Methods
+- phase locking value
+
+# Effective Connectivity
+
+Causal association between systems.
+
+Methods
+- dynamic causal modeling
+- granger causality
+
+# Cross Frequency Coupling
+
+Identifying connections between locations based on similar patterns from their individual recordings.
+
+- power to power coupling : magnitude is consistent but frequency is different
+- phase to phase coupling : phase is consistent between both regions but something else changes.
+
+# Activity
+
+**Evoked**
+
+Locked to stimuli
+- phase locked : response peaks occur at same time from one stimulus presentation to the next stimulus presentation
+- temporal locked
+
+Noise can be reduced by averaging.
+
+**Induced**
+
+Occur after the stimuli and has no phase locking.
+
+Represents stimulus modulation of brain activity.
+
+Requires non linear analysis prior to averaging.
