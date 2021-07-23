@@ -42,3 +42,23 @@ regularity
 |lexicality|pseudo regular|pseudo irregular|
 
 pair wise comparison
+
+# Functional Interactions
+
+Psychophysiological Interactions (PPI)
+
+In contrast to local activity which gives info about the current state but does not inform about the interactions between different brain regions , PPI assesses functional coupling between 2 brain regions.
+
+PPI measures brain region interactions by estimating changes in neuronal activity.
+
+- identify voxels of interest (VOI)
+- define radius of VOI to perform PPI
+- group level one sample t test
+
+# Answer
+
+For a morphology rich language such as Russian
+- local activity suggests : 1 system theory is correct
+- functional activity suggests : 2 system theory is correct
+
+To test if irregularity , frequency , or productivity is the cause a new study was performed.
