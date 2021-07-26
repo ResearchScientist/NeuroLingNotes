@@ -32,7 +32,7 @@ Transmit signals
 A neurodegenerative disease.
 
 # Broca's Aphasia
-Lesions in area result in non fluent aphasia.
+Lesions in area result in non fluent aphasia. Difficulty producing speech.
 
 # Wernicke's aphasia
 Lesions in area result in fluent aphasia.

@@ -53,20 +53,67 @@
 - can read simple stories
 - can produce complex stories
 
-# Monolingual
+# Phonology
 
+**phonemes**
 
+Basic units of sound (consonants , vowels)
 
-# Bilingual
+**words**
 
+words comprised of a representational form and its associated meaning
 
+word
+- form
+ - sound
+ - spelling
+- meaning
 
-# Native Phonology
+**semantic network**
 
+Association between related words.
 
+**phonological network**
+
+Neighbors differ from each other by one phoneme.
+
+# Cohort Model
+
+Model for auditory word recognition.
+- activation
+- competition
+- selection
+
+Words are activated as auditory input is received in real time. As signal continues words compete for activation. Best match to signal is selected.
 
 # Non Native Phonology
 
+**fuzzy representation**
 
+When learners are unable to differentiate between L2 phonemes such as Japanese where /l/ & /r/ do not contrast they may retrieve the incorrect meaning.
 
-# L1 & L2 Acquisition
+# Morphology
+
+**morpheme**
+
+Smallest unit that has meaning.
+
+- monomorphemic - consists of only the stem
+- polymorphemic - consists of stem and other morphemes
+
+**word structure**
+
+- inflection
+ - stem + affixes (lexeme forms)
+- derivation
+ - stem + affixes (new lexeme)
+- compounding
+ - two words (new lexeme)
+
+# Lexical Decision Task
+
+Test for morphological decomposition.
+
+Stimuli consists of real and contrived words. Each presented one after the other. Task is to indicate if the word is real or not. Accuracy and reaction times are recorded.
+
+Control for word length and frequency.
