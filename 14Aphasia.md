@@ -73,3 +73,56 @@ the ball that the boy played with was red
 
 difficulty ids cat as black
 the cat that the dog chased was black
+
+# Luria Assessment
+
+|Aphasia|Lesion|Details|
+|--|--|--|
+|sensory||impaired phoneme recognition , impaired acoustic analysis , impaired speech sound production|
+|acoustic||impaired auditory memory , impaired comprehension , impaired object naming , impaired repetition , verbal paraphasia|
+|afferent||disrupted production , literal paraphasias|
+|semantic|posterior|impaired temporal relations,prepositions,logical structure|
+|efferent motor|broca area|words intact , disrupted sentence formation , disturbed kinetic rhythm , telegraphic|
+|dynamic||sentences intact , disrupted cohesion of multiple sentences , strategy is to use cliches and canned responses or recite poetry to express oneself|
+|amnestic|posterior|impaired object naming|
+
+# Motor Aphasia
+
+**efferent**
+- signals from cns to sensory organs
+- impaired articulation components
+
+**afferent**
+
+- signals from sensory organs to cns
+- impaired articulatory apparatus posture
+
+# Jakobson
+
+2 main types of connections in language
+
+**internal connections of similarity**
+
+- capacity for selection
+
+Impaired
+- paraphasia
+- picture object naming
+
+Intact
+- abstract words
+- units such as articles, pronouns, conjunctions, prepositions
+
+**external connections of adjacence**
+
+- capacity for combination
+
+Impaired
+- sentence production
+- conjunctions are absent , telegraphic speech
+- context
+
+**Aphasias**
+
+- coding - anterior aphasias
+- decoding - posterior aphasias

@@ -83,3 +83,23 @@ Primary Systems
 prosody and syntax
 
 The intonation of prosody , the logical stress of an utterance , is processed in the right hemisphere.
+
+# posterior left Hemisphere
+
+- word knowledge
+- phraseological expressions
+- word relations
+
+# left vs right
+
+model proposed by Vadim Deglin and Tatiana Chernigovskaya
+
+left hemisphere
+- semantic cohesion
+- syntactic cohesion
+
+right hemisphere
+- motivation
+- internal speech
+- topic definition
+- object subject definition
