@@ -103,3 +103,8 @@ right hemisphere
 - internal speech
 - topic definition
 - object subject definition
+
+# Corpus Callosum
+
+thick fibers connecting left and right hemispheres
+- millions of nerve fibers

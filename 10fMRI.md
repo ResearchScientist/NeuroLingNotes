@@ -37,3 +37,16 @@ Stimuli presented separately in random order.
 Repeated testing of same data set increases false positives due to setting significance level at 5%.
 
 Make sure to use correction methods to minimize this issue.
+
+# pharmaco FMRI
+
+- Administer drug that blocks receptor.
+- Compare treatment vs non treatment tasks.
+
+Memantine blocks glutamate action on NMDA receptor sites.
+
+**Cross Over Design**
+
+Split into 2 equal groups.
+- treatment + no treatment
+- no treatment + treatment

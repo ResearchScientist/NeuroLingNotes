@@ -94,6 +94,51 @@ anterior cingulate cortex
 - simulataneously present 2 different consonant vowel (CV) syllables
 - one CV syllable per ear
 
+**voiced**
+
+/ba/ /da/ /ga/
+
+VOT 20ms to 30ms
+
+**voiceless**
+
+/pa/ /ta/ /ka/
+
+VOT 70ms to 80ms
+
 Patients accuracy of right CV syllables decreased with severity of AH events.
 
-Auditory signals are contralaterally processed. Since the left hemisphere has a preference for processing speech signals from the right ear, the decrease in accurately assessing CV syllables from the right ear implies auditory hallucinations inhibit the perception of real speech auditory input .
+Auditory signals are contralaterally processed. Since the left hemisphere has a preference for processing speech signals from the right ear, the decrease in accurately assessing CV syllables from the right ear implies auditory hallucinations inhibit the perception of real speech auditory input.
+
+**Tests For**
+
+- speech sound lateralization
+- temporal lobe integrity
+- processing speed
+- executive function
+- attention function
+- impaired processing between clinical groups
+
+**Top Down Modulation**
+
+Alter instructions given to the patient.
+
+- training effects
+- attention focus
+- working memory
+- executive function
+
+**Bottom Up Modulation**
+
+Alter the stimuli or its presentation.
+
+- voice onset time (VOT)
+- inter aural intensity difference (db)
+- stimulus onset asynchrony (SOA)
+- languge differences
+
+# Dichotomy
+
+brain asymetry
+hemispheric asymetry
+lateralization
