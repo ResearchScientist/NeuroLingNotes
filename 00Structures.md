@@ -108,3 +108,16 @@ right hemisphere
 
 thick fibers connecting left and right hemispheres
 - millions of nerve fibers
+
+# Functions
+
+look at illustration for locations
+
+- AM , articulatory monitoring
+- AP , articulatory production
+- NC , noun concepts
+- PA , primary auditory
+- PP , phonological production
+- PR , phonological recognition
+- S  , syntax and morphology
+- VC , verb concepts
