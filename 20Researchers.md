@@ -13,6 +13,13 @@
 
 - synapses language and being human , 2013
 
+# Chomsky
+
+- inate universal grammar
+
+# Fodor
+
+- modularity
 
 # Resources
 
