@@ -22,3 +22,21 @@
 - translate human speech signals to sign language
 
 Language as encriptying and decyphering signals.
+
+# Perception
+
+from acuoustics to phonolgy
+- review anatol vladimirovich ventsov & vadim borisovich kasevich
+
+from phonology to semantics
+- process of activation & competition
+- what is stored in the lexicon , lexemes or word forms
+- how and where are these units grouped , stored and retrieved
+- models
+  - parallel activation
+  - hybrid
+    - cohort
+  - autonomous , sound recognized first then meaning
+  - interactive , information from all levels is available
+
+perception
