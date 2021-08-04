@@ -22,7 +22,21 @@ Transmit signals
 
 # Dyslexia
 
+Neurological condition.
+
+impaired
+- perception of particular sounds
+- association between letters and sounds
+- perception of written letters
+- word meaning
+- understanding of grammatical structure
+
+No occurrence in hieroglyphic languages.
+Low occurrence in languages with good phonetic to semantic mapping.
+
 # Dysgraphia
+
+# Dyscalculia
 
 # Schizophrenic Speech
 

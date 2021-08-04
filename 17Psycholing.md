@@ -39,4 +39,9 @@ from phonology to semantics
   - autonomous , sound recognized first then meaning
   - interactive , information from all levels is available
 
-perception
+# Reading
+
+- letter recognition
+- letter finding
+
+Difficulty increases with perceptual complexity, similarity, task.
