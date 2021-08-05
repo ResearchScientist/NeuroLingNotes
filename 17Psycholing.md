@@ -45,3 +45,34 @@ from phonology to semantics
 - letter finding
 
 Difficulty increases with perceptual complexity, similarity, task.
+
+# Text Analysis
+
+**Keyword Recruiting**
+
+For obtaining word frequencies and categories.
+
+Task
+- listen to a narrative
+- produce 10 keywords that capture its main meaning
+
+**Contextual Predictability**
+
+Task
+- text presented with every nth word removed OR all occurrences of a part of speech removed
+- produce a word to replace what was removed
+
+Inserted words are
+- adequate : identical or synonym
+- syntax error
+- semantic error
+- pragmatic error
+
+**Comunicative Interaction**
+
+For uncovering communicative strategies and abilities.
+
+Task
+- 2 participants
+- interaction restricted to a particular modality : speech only , txt only
+- one instructs the other on how to complete a task

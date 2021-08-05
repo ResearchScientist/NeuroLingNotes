@@ -36,6 +36,12 @@ Low occurrence in languages with good phonetic to semantic mapping.
 
 # Dysgraphia
 
+writing errors
+- letter replacement
+- missing letters
+- syllable additions
+
+
 # Dyscalculia
 
 # Schizophrenic Speech
