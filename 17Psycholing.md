@@ -76,3 +76,34 @@ Task
 - 2 participants
 - interaction restricted to a particular modality : speech only , txt only
 - one instructs the other on how to complete a task
+
+# Language Acquisition
+
+referrential
+- reproduce a salient feature
+
+expressive
+- reproduce the entire phonetic appearance without the fine details
+
+self directed speech
+- for problem solving
+
+easy
+/m//p/ /b/
+
+difficult
+consonant clusters
+
+when shortening words , preference is to retain the stressed syllable
+
+polysemantic
+when multiple words contain an identical syllable , that syllable alone gets used to identify each word
+
+Order of acquisition
+- nouns
+- verbs (2 months after nouns)
+- adjectives (2 months after verbs)
+
+Lexical Burst
+- 2 to 3 yrs
+- 10 to 15 new words per day
