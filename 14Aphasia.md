@@ -74,6 +74,12 @@ the ball that the boy played with was red
 difficulty ids cat as black
 the cat that the dog chased was black
 
+**conductance aphasia**
+
+damage to arcuate fasciculus
+
+unable to repeat a heard utterance
+
 # Luria Assessment
 
 |Aphasia|Lesion|Details|
