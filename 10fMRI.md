@@ -61,7 +61,9 @@ The standard generic HRF may be inadequate for groups such as the elderly and no
 
 ![hrf](Images/hrf.png)
 
+For most experimental designs the resulting variability in alpha is quite small compared to the resulting variability in beta. For this reason alpha is usually held constant and only beta is measured.
 
+Since alpha is between 4s to 6s a temporal resolution of 2s is needed in order to measure alpha. You need a measure at least twice as fast as the signal in order to detect the signal.
 
 
 
