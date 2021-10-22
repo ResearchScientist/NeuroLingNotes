@@ -59,7 +59,7 @@ The standard generic HRF may be inadequate for groups such as the elderly and no
 - alpha : time to peak
 - beta : peak
 
-![hrf](hrf.png)
+![hrf](Images/hrf.png)
 
 
 
