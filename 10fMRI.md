@@ -56,14 +56,33 @@ In the primary visual cortex in regards to orientation pinwheels , astrocytes ha
 
 The standard generic HRF may be inadequate for groups such as the elderly and non neurotypical populations but may be sufficiently adequate without alterations for standard studies.
 
-- alpha : time to peak
-- beta : peak
+- alpha : time to peak (lag)
+- beta : peak (amplitude)
 
 ![hrf](Images/hrf.png)
 
 For most experimental designs the resulting variability in alpha is quite small compared to the resulting variability in beta. For this reason alpha is usually held constant and only beta is measured.
 
 Since alpha is between 4s to 6s a temporal resolution of 2s is needed in order to measure alpha. You need a measure at least twice as fast as the signal in order to detect the signal.
+
+*Results*
+
+Results are reported as a % change from baseline.
+
+- A strong BOLD signal response is a 1% to 2% increase from baseline.
+
+More recently results are being reported as AU arbitrary units. This means that although informative within an experiment. They are difficult to compare between experiments.
+
+**Block Design**
+
+A boxcar regressor is the presentation and removal of a stimulus.
+
+- Boxcar Regressor A : expected response
+- Boxcar Regressor B : no expected response
+
+
+
+**General Linear Model**
 
 
 
