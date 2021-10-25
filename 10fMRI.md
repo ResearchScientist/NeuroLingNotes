@@ -36,7 +36,7 @@ Parameters
 - spatial resolution
 - coverage (slices)
 
-# fMRI Timecourse
+# fMRI 2 Timecourse
 
 Within a 1mm x 1mm x 1mm voxel there are hundreds of thousands of neurons.
 
@@ -44,6 +44,7 @@ Average neural activity can be detected but which types of neurons are firing ca
 
 **Hemodynamic Response Function**
 
+Curve
 - An increase in neural activity depletes the local oxygen supply (initial dip).
 - Body overcompensates with a slow and higher replenishment of oxygen at the site. This occurs 4s to 6s after stimuli presentation.
 - As oxygen levels return to baseline they dip slightly below baseline before returning fully to baseline (overshoot).
@@ -58,6 +59,8 @@ The standard generic HRF may be inadequate for groups such as the elderly and no
 
 - alpha : time to peak (lag)
 - beta : peak (amplitude)
+
+Beta is expected to be the overcompensation of oxygen for neurons that have depleted their oxygen supply due to their neural activation.
 
 ![hrf](Images/hrf.png)
 
@@ -80,7 +83,18 @@ A boxcar regressor is the presentation and removal of a stimulus.
 - Boxcar Regressor A : expected response
 - Boxcar Regressor B : no expected response
 
+![boxcar regressor](Images/boxcar-regressor.png)
 
+**Noise**
+
+- To help account for noise set block duration from 16s to 24s. Repeat at least 4 times within each 5 minute run.
+- As number of experimental trials increase , noise decreases.
+- Movements during scanning cause artifacts.
+
+An impulse regressor can be used to account for artifacts.
+Use one impulse regressor for each artifact at one time point.
+
+# fMRI 3 Univariate Analysis
 
 **General Linear Model**
 
