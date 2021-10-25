@@ -96,6 +96,39 @@ Use one impulse regressor for each artifact at one time point.
 
 # fMRI 3 Univariate Analysis
 
+**Questions**
+
+> how much activation
+
+- Contrast : difference between condition A and condition B
+- Signal : average beta
+- Noise : variability in beta
+- Selectivity : to what extent does each condition elicit a response
+
+To determine if there is a difference between 2 conditions within one person.
+Run a `t test` to determine if difference is significant across people.
+
+![quantity](Images/quantity.png)
+
+> where is the activation
+
+- Contrast Image : for a given voxel subtract actual beta from condition B from actual beta from condition A (A - B)
+- Unexplained Variance :
+- T Map : signal to noise ratio , T value at each voxel , you are looking for a high signal and a low unexplained variance
+- Threshold : p < 0.001 , to view only the highest signal to noise ratios in the T Map only the voxels that have a T value higher than the given threshold are highlighted with colour in the map
+
+Actual beta at given voxel.
+
+![where](Images/betavoxel.png)
+
+This is effective for obtaining data on one person at a time.
+
+**Group Analysis**
+
+Whole Brain Group Analysis : comparing activated areas across people
+
+30:30
+
 **General Linear Model**
 
 
