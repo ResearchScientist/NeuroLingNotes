@@ -123,14 +123,36 @@ Actual beta at given voxel.
 
 This is effective for obtaining data on one person at a time.
 
+**Brain Alignment**
+
+- Anatomical Template : an image as an average representation of many brains
+- Anatomical Image : image of one individual of interest
+- Affine Transformations : rotations , translations and scalings performed to fit anatomical image to anatomical template
+- Normalize : 1st anatomical image is aligned to anatomical template , 2nd register functional data to anatomical image then map functional data to anatomical template
+
+Additionally, for improved alignment can also use functional areas of interest and hyper alignment.
+
 **Group Analysis**
 
-Whole Brain Group Analysis : comparing activated areas across people
+- Whole Brain Group Analysis : comparing activated areas across people
+- Minimum : 8 people
+- Variability : variability in beta at one voxel between people
+- T Stat : average size of difference between people relative to variability across people
+- Threshold : average effect size is large compared to variability across people
+- First Level Analysis : contrast within one person
+- Second Level Analysis : contrast across people , also called between subjects random effects , power increases with more subjects instead of with more scanned data
 
-30:30
+Obtain one contrast image for each person.
+Consider the same voxel at each image and note its beta value (contrast value).
+Average the contrast values for each voxel.
+
+# fMRI 4 Multivariate Analysis
+
+
+
+
 
 **General Linear Model**
-
 
 
 ---
