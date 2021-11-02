@@ -31,3 +31,7 @@ directly connects broca and wernicke areas
 # inferior longitudinal fasciculus
 
 # uncinate fasciculus
+
+# mldf track
+
+# fat frontal asla track
